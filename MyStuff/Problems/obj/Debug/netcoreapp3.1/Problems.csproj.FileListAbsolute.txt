@@ -1,0 +1,11 @@
+E:\Csc301\Software Design and Practices\Prac 2\MyStuff\Problems\obj\Debug\netcoreapp3.1\Problems.csprojAssemblyReference.cache
+E:\Csc301\Software Design and Practices\Prac 2\MyStuff\Problems\obj\Debug\netcoreapp3.1\Problems.AssemblyInfoInputs.cache
+E:\Csc301\Software Design and Practices\Prac 2\MyStuff\Problems\obj\Debug\netcoreapp3.1\Problems.AssemblyInfo.cs
+E:\Csc301\Software Design and Practices\Prac 2\MyStuff\Problems\bin\Debug\netcoreapp3.1\Problems.exe
+E:\Csc301\Software Design and Practices\Prac 2\MyStuff\Problems\bin\Debug\netcoreapp3.1\Problems.deps.json
+E:\Csc301\Software Design and Practices\Prac 2\MyStuff\Problems\bin\Debug\netcoreapp3.1\Problems.runtimeconfig.json
+E:\Csc301\Software Design and Practices\Prac 2\MyStuff\Problems\bin\Debug\netcoreapp3.1\Problems.runtimeconfig.dev.json
+E:\Csc301\Software Design and Practices\Prac 2\MyStuff\Problems\bin\Debug\netcoreapp3.1\Problems.dll
+E:\Csc301\Software Design and Practices\Prac 2\MyStuff\Problems\bin\Debug\netcoreapp3.1\Problems.pdb
+E:\Csc301\Software Design and Practices\Prac 2\MyStuff\Problems\obj\Debug\netcoreapp3.1\Problems.dll
+E:\Csc301\Software Design and Practices\Prac 2\MyStuff\Problems\obj\Debug\netcoreapp3.1\Problems.pdb
