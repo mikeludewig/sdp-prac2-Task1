@@ -26,6 +26,7 @@ namespace Problems
                 {
                     i++;
                     numWords++;
+                    
                 }
                 
             }
@@ -34,12 +35,7 @@ namespace Problems
             
             string value = num + "," + numW + ":" + input ;
 
-            //if (string.IsNullOrEmpty(input))
-            //{
-            //    value = num + "," + "0:" + input;
-           //     return value; 
-           // }
-            //Console.WriteLine(num + "," + numW + ":" + input);
+            
             return value;
         }
 
