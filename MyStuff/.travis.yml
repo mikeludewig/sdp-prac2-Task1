@@ -1,7 +1,7 @@
 language: csharp
 dotnet: 2.2
 script:
-  dotnet test Problems.Tests
+  dotnet test UnitTest1.cs
 matrix:
   include:
     - dist: xenial
